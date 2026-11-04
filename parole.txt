@@ -1,0 +1,4 @@
+ciao
+grazie
+neutro
+no
