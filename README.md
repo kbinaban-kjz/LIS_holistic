@@ -1,6 +1,6 @@
 # 🤟 LIS_holistic: Riconoscimento della Lingua dei Segni Italiana
 
-Questo progetto applica tecniche avanzate di **Computer Vision** e **Deep Learning** per il riconoscimento automatico della Lingua dei Segni Italiana (LIS) in tempo reale.
+Un prototipo che applica tecniche avanzate di **Computer Vision** e **Deep Learning** per il riconoscimento automatico della Lingua dei Segni Italiana (LIS) in tempo reale.
 
 Sfruttando **MediaPipe Holistic**, il sistema estrae i landmark chiave del corpo, delle mani e del viso da ciascun frame per alimentare modelli sequenziali capaci di interpretare la dinamica temporale dei gesti.
 
