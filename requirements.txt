@@ -1,0 +1,18 @@
+# Elaborazione immagini e rilevamento Holistic
+mediapipe>=0.10.0
+opencv-python>=4.8.0.74
+
+
+# Manipolazione dati e array
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine Learning & Deep Learning (tieni quella che utilizzi nei file allena_modello.py)
+scikit-learn>=1.3.0
+#tensorflow>=2.13.0
+#pytorch / torch (scommenta se usi PyTorch al posto di TensorFlow)
+torch>=2.0.0
+
+# Visualizzazione dati e metriche
+matplotlib>=3.7.0
+seaborn>=0.12.0
